@@ -1,4 +1,4 @@
-package com.microserviceCourse.demo;
+package com.microserviceCourse.limitservice;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
